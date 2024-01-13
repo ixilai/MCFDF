@@ -1,7 +1,7 @@
 # MCFDF
 This package contains the matlab code which is associated with the following paper:
 
-Xilai Li, Xiaosong Li, Xiaoqi Cheng, Mingyi Wang, Haishu Tan. MCFDFusion: Multi-focus image based on multiscale cross-difference and focus detection[J]. IEEE sensors journal.
+Xilai Li, Xiaosong Li, Xiaoqi Cheng, Mingyi Wang, Haishu Tan. MCDFD: Multi-focus image based on multiscale cross-difference and focus detection[J]. IEEE sensors journal.
 
 This manuscript is accepted. Usage of this code is free for research purposes only.
 
